@@ -144,7 +144,7 @@ Developing intelligent applications using:
 
 ## 🤝 Let's Connect
 
-📧 **Personal:** Kevin1.kaniar@gmail.com
+📧 **Personal:** kevin1.kaniaru@gmail.com
 
 🎓 **Academic:** kevin.kaniaru@strathmore.edu
 
